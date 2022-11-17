@@ -1,23 +1,23 @@
-[ 
-"Persons": {
-   { 
+{"Persons": [
+	   { 
 
-     "id": 1, 
+		 "id": 1, 
 
-     "avatar": "https://robohash.org/Cote”, 
+		 "avatar": "https://robohash.org/Cote”, 
 
-     "full_name": "Cote Hardin", 
+		 "full_name": "Cote Hardin", 
 
-     "job_title": "Computer Systems Administrator", 
+		 "job_title": "Computer Systems Administrator", 
 
-     "gender": "Male", 
+		 "gender": "Male", 
 
-     "country_name": "Azerbaijan", 
+		 "country_name": "Azerbaijan", 
 
-     "city_name": "Collins",  
+		 "city_name": "Collins",  
 
-     "city_picture": "https://dummyimage.com/140x234/000/fff&text=Collins" 
+		 "city_picture": "https://dummyimage.com/140x234/000/fff&text=Collins" 
 
-   }, 
+	   }, 
+   ]
 }
-]     
+}
