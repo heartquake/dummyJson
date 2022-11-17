@@ -1,5 +1,5 @@
 [ 
-
+"Persons": {
    { 
 
      "id": 1, 
@@ -19,5 +19,5 @@
      "city_picture": "https://dummyimage.com/140x234/000/fff&text=Collins" 
 
    }, 
-
+}
 ]     
